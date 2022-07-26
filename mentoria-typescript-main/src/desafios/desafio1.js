@@ -4,7 +4,13 @@ let employee = {};
 employee.code = 10;
 employee.name = "John";
 
-const funcionario = {
+const funcionarios = {
     codigo: 10,
     nome: 'João'
+};
+
+
+const funcionario2 = {
+    codigo: 10,
+    nome: 'joao'
 };
